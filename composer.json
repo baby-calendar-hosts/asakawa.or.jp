@@ -234,6 +234,7 @@
     "koodimonni-plugin-language/wp-fastest-cache-ja": "*",
     "koodimonni-plugin-language/wp-super-cache-ja": "*",
     "wpackagist-plugin/all-in-one-seo-pack": "*",
+    "wpackagist-plugin/admin-menu-editor": "*",
     "wpackagist-plugin/adminimize": "*",
     "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
