@@ -21,7 +21,6 @@
 ### 1. ローカルにプロジェクトを作成
 ```ShellSession
 $ git clone git@github.com:cookpad-baby/hosting-wordpress.git <ドメイン名>
-$ cd <ドメイン名>
 ```
 
 ### 2. githubリポジトリを作成
