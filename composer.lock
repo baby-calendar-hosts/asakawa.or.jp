@@ -885,15 +885,15 @@
         },
         {
             "name": "wpackagist-plugin/admin-menu-editor",
-            "version": "1.9.8",
+            "version": "1.9.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/admin-menu-editor/",
-                "reference": "tags/1.9.8"
+                "reference": "tags/1.9.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/admin-menu-editor.1.9.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/admin-menu-editor.1.9.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -921,15 +921,15 @@
         },
         {
             "name": "wpackagist-plugin/all-in-one-seo-pack",
-            "version": "4.0.6",
+            "version": "3.7.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
-                "reference": "tags/4.0.6"
+                "reference": "tags/3.7.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.4.0.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.3.7.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -1119,15 +1119,15 @@
         },
         {
             "name": "wpackagist-plugin/my-calendar",
-            "version": "3.2.10",
+            "version": "3.2.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/my-calendar/",
-                "reference": "tags/3.2.10"
+                "reference": "tags/3.2.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.2.10.zip"
+                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.2.9.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
