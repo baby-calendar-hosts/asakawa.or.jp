@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "184a4310186ed076c9c3aacb1d5b94ad",
+    "content-hash": "bdeef4bb94a9da70ce814d154a11b669",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -1503,6 +1503,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/my-calendar/"
+        },
+        {
+            "name": "wpackagist-plugin/recaptcha-for-mw-wp-form",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/recaptcha-for-mw-wp-form/",
+                "reference": "tags/1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/recaptcha-for-mw-wp-form.1.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/recaptcha-for-mw-wp-form/"
         },
         {
             "name": "wpackagist-plugin/seo-simple-pack",
