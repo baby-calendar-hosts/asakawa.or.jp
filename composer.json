@@ -182,15 +182,9 @@
     "roots/bedrock-autoloader": "^1.0",
     "roots/wordpress": "^5.9",
     "roots/wp-config": "1.0.0",
-<<<<<<< HEAD
-    "roots/wp-password-bcrypt": "1.0.0",
-    "vlucas/phpdotenv": "^5.3",
-    "wpackagist-plugin/all-in-one-seo-pack": "*",
-    "wpackagist-plugin/admin-menu-editor": "*",
-=======
     "roots/wp-password-bcrypt": "1.1.0",
     "vlucas/phpdotenv": "^5.4",
->>>>>>> upstream/master
+    "wpackagist-plugin/admin-menu-editor": "*",
     "wpackagist-plugin/adminimize": "*",
     "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
